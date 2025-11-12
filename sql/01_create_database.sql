@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS gapc_db;
+USE gapc_db;
